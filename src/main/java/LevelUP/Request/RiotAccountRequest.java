@@ -2,14 +2,14 @@ package LevelUP.Request;
 
 import lombok.Getter;
 import lombok.Setter;
+import lombok.NoArgsConstructor;
+import lombok.AllArgsConstructor;
 
-// DTO que o frontend vai enviar
 @Getter
 @Setter
+@NoArgsConstructor
+@AllArgsConstructor
 public class RiotAccountRequest {
     private String nick;
     private String tagline;
-
-    // Getters e setters
 }
-
