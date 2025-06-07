@@ -49,7 +49,7 @@ Quer saber mais ou fechar parceria?
 
 📧 contato@levelup.gg  
 📱 Instagram: [@levelup.gg](https://instagram.com/levelup.gg) *(link fictício)*  
-🌐 Site oficial: [https://levelup.gg](https://levelup.gg)
+
 
 ---
 
@@ -59,4 +59,4 @@ Essa plataforma está em constante evolução! Fique ligado para atualizações 
 
 ---
 
-## ⚡ Powered by [Seu Nome/Time/Startup]
+## ⚡ Powered by [Adrian]
