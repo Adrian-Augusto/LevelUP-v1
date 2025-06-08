@@ -11,7 +11,6 @@
 - 🎨 Total liberdade para definir regras, formatos e objetivos
 - 👥 Gestão de participantes e partidas
 - 📊 Dashboard com estatísticas em tempo real
-- 💸 Programa de parceria com comissão de 40% por indicação
 
 ---
 
@@ -22,36 +21,8 @@
 - **Times e clãs**
 - **Jogadores casuais ou competitivos**
 
----
-
-## 🤝 Programa de Parceria
-
-Seja um parceiro da LevelUP e ganhe **40% de comissão** para cada novo assinante que utilizar seu **cupom exclusivo**.
-
-É simples:
-1. Faça parte do nosso programa.
-2. Divulgue seu cupom para sua audiência.
-3. Receba comissões por cada assinatura gerada.
-
----
-
-## 📥 Como Começar?
-
-1. Acesse [https://levelup.gg](https://levelup.gg) *(link fictício - substitua pelo real)*
-2. Crie sua conta.
-3. Comece a montar sua própria ranked e convidar sua galera!
-
----
-
-## 📩 Contato
-
-Quer saber mais ou fechar parceria?
-
-📧 contato@levelup.gg  
-📱 Instagram: [@levelup.gg](https://instagram.com/levelup.gg) *(link fictício)*  
 
 
----
 
 ## 🧪 Em desenvolvimento
 
